@@ -342,7 +342,7 @@ QU_B_2 : "ᴅɪᴍᴀɪɴᴋᴀɴ {0} ᴅᴀʀɪ {1} ᴍᴇɴɪᴛ"
 # Anggota Nabi [ Jika Anda menerjemahkan ini ke bahasa lain .. Anda dapat meninggalkan semua string ini dalam bahasa Inggris]
 
 #Sudo
-sudo_1 : "{0} sudah menjadi Nabi."
+sudo_1 : "{0} sudah menjadi Budak Omes."
 sudo_2 : "Diangkat *{0}** Menjadi Budak Omes."
 sudo_3 : "Bukan bagian dari anggota Budak Omes."
 sudo_4 : "Diturunkan Pangkat Menjadi Manusia Biasa"
