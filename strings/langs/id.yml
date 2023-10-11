@@ -342,13 +342,13 @@ QU_B_2 : "ᴅɪᴍᴀɪɴᴋᴀɴ {0} ᴅᴀʀɪ {1} ᴍᴇɴɪᴛ"
 # Anggota Nabi [ Jika Anda menerjemahkan ini ke bahasa lain .. Anda dapat meninggalkan semua string ini dalam bahasa Inggris]
 
 #Sudo
-sudo_1 : "{0} sudah menjadi Budak Omes."
-sudo_2 : "Diangkat *{0}** Menjadi Budak Omes."
-sudo_3 : "Bukan bagian dari anggota Budak Omes."
+sudo_1 : "{0} sudah menjadi Kacung scret."
+sudo_2 : "Diangkat *{0}** Menjadi Kacung scret."
+sudo_3 : "Bukan bagian dari anggota Kacung scret."
 sudo_4 : "Diturunkan Pangkat Menjadi Manusia Biasa"
 sudo_5 : "☀️<u> **Bos Omes:**</u>\n"
-sudo_6 : "\n🌟<u> **Anggota Budak Omes:**</u>\n"
-sudo_7 : "Tidak Ada Anggota Budak Omes"
+sudo_6 : "\n🌟<u> **Anggota Kacung scret :**</u>\n"
+sudo_7 : "Tidak Ada Anggota kacung scret"
 
 #Memblokir
 block_1 : "{0} sudah diblokir dari bot."
