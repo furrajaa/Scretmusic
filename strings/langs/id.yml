@@ -225,7 +225,7 @@ song_10 : "Gagal mengunggah telegram dari server."
 song_11 : "Pengunggahan Dimulai\n\nKecepatan pengunggahan mungkin lambat. Harap tunggu sebentar.."
 
 # Alat - Antrian
-queue_1 : "Mohon Tunggu..Mengambil Antrian.."
+queue_1 : "Mohon Tunggu..NGANTRI ANJING.."
 queue_2 : "Tidak ada trek di dalam Antrian."
 queue_3 : "<u>**Trek Antrian:</u>** [Lihat Trek Antrian Lainnya Dari Sini]({0})"
 queue_4 : "⏳ Ditambahkan ke Antrian di **#{0}\n\n📀 Judul:** {1}\n**⏰ Durasi:** {2}\n🧸 **Ditambahkan Oleh:** {3}"
@@ -342,12 +342,12 @@ QU_B_2 : "ᴅɪᴍᴀɪɴᴋᴀɴ {0} ᴅᴀʀɪ {1} ᴍᴇɴɪᴛ"
 # Anggota Nabi [ Jika Anda menerjemahkan ini ke bahasa lain .. Anda dapat meninggalkan semua string ini dalam bahasa Inggris]
 
 #Sudo
-sudo_1 : "{0} sudah menjadi Kacung scret."
-sudo_2 : "Diangkat *{0}** Menjadi Kacung scret."
-sudo_3 : "Bukan bagian dari anggota Kacung scret."
+sudo_1 : "{0} sudah menjadi Babu Secret."
+sudo_2 : "Diangkat *{0}** Menjadi Babu Secret."
+sudo_3 : "Bukan bagian dari anggota Babu Secret."
 sudo_4 : "Diturunkan Pangkat Menjadi Manusia Biasa"
-sudo_5 : "☀️<u> **Bos Omes:**</u>\n"
-sudo_6 : "\n🌟<u> **Anggota Kacung scret :**</u>\n"
+sudo_5 : "☀️<u> **TUHAN KU:**</u>\n"
+sudo_6 : "\n🌟<u> **BABU SECRET :**</u>\n"
 sudo_7 : "Tidak Ada Anggota kacung scret"
 
 #Memblokir
@@ -397,7 +397,7 @@ broad_3 : "**Siaran Asisten:**\n\n"
 broad_4 : "Asisten {0} Disiarkan di {1} obrolan\n"
 broad_5 : "**Penggunaan**:\n/gcast [PESAN] atau [Balas Pesan]"
 broad_6 : "Harap berikan beberapa teks untuk disiarkan."
-broad_7 : "**Pesan yang Disiarkan ke {0} Pengguna.**"
+broad_7 : "**Pesan yang Disiarkan ke {0} NPC.**"
 
 #Heroku
 heroku_1 : "Pastikan Heroku API Key Anda, Nama Aplikasi Anda dikonfigurasi dengan benar di heroku"
